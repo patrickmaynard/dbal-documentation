@@ -16,7 +16,7 @@ means the sharding extension is primarily suited for:
 - multi-tenant applications or
 - applications with completly separated datasets (example: weather data).
 
-Both kind of application will work with both DBAL and ORM.
+Both kinds of application will work with both DBAL and ORM.
 
 .. note::
 
